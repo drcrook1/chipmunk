@@ -1,0 +1,4 @@
+{
+    "ProtectedHosts" : ["hosta", "hostb", "hostc"],
+    "EncryptionFields" : ["PropertyA", "PropertyB"]
+}
